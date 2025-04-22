@@ -1,5 +1,0 @@
-hello everyone my name <div class="input-group input-group-monalisha patwal 
-"> bye bye everyone i am going to sleep
-    <span class="input-group-addon" id="prefixId">prefix</span>
-    <input type="text" name="name" id="name" class="form-control" placeholder="placeholder" aria-describedby="prefixId">
-</div>
